@@ -8,7 +8,7 @@
 
 Selah is a free and open source Bible reading plan app for web and Android.
 Bible text and audio are fetched in real time from [api.esv.org](https://api.esv.org).
-An internet connection is required. The ESV Bible is copyright Crossway.
+Due to their strict terms, an internet connection is required to fetch text and audio. The ESV Bible is copyright Crossway.
 This app is not affiliated with Crossway or YouVersion.
 
 ---
